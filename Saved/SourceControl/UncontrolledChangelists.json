@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Foliage/Leafs4.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Textures/Leaf/Leaf_Texture.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Textures/Leaf/Leaf.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Levels/Asset_Zoo.umap",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Foliage/Leafs1.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Textures/Leaf/Bush_Leaf.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Foliage/Leafs_Large.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Foliage/Leafs2.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Foliage/Leafs3.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Obstacles/Berry.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Obstacles/Bush.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Foliage/Premade_Trees.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Obstacles/Bramble_Bush1.uasset",
+				"C:/Users/landry.lewis/Documents/Unreal Projects/Mario kart track/GP25_BeeABear/Content/Assets/Textures/Wood_And_Bush_Base_1.uasset"
+			]
+		}
+	]
+}
